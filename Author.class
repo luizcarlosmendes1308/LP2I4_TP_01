@@ -1,0 +1,26 @@
+Êþº¾   4 U
+  1	  2	  3	  4  5
+  1 6
+  7 8 9
+  : ;
+  <  = > ?
+  @	 A B
+  <
+ C D E
+  F G
+  H I
+  J  K name Ljava/lang/String; email gender C <init> ((Ljava/lang/String;Ljava/lang/String;C)V Code LineNumberTable  getName ()Ljava/lang/String; getEmail setEmail (Ljava/lang/String;)V 	getGender ()C toString main ([Ljava/lang/String;)V 
+SourceFile 
+Author.java ! L        java/lang/StringBuilder 
+Author[name=  M N 	, email=  
+ ,gender=  M O ] , & Author Luiz luizmendes1308@gmail.com ! "  P Q R  S T ) Nome:  % &  Email:  ' & Gender:  * + java/lang/Object ()V append -(Ljava/lang/String;)Ljava/lang/StringBuilder; (C)Ljava/lang/StringBuilder; java/lang/System out Ljava/io/PrintStream; java/io/PrintStream  println !                         ! "  #   <     *· *+µ *,µ *µ ±    $           	 	  
+  
+  % &  #        *´ °    $         ' &  #        *´ °    $         ( )  #   "     *+µ ±    $   
+        * +  #        *´ ¬    $         , &  #   L     4» Y·  ¶ *´ ¶ 	¶ *´ ¶ 
+¶ *´ ¶ 
+¶ ¶ 
+°    $       $ 	 - .  #   ™     m» Ym· L² +¶ ¶ ² » Y· ¶ +¶ ¶ ¶ 
+¶ ² » Y· ¶ +¶ ¶ ¶ 
+¶ ² » Y· ¶ +¶ ¶ 
+¶ 
+¶ ±    $       *  ,  / 4 0 P 1 l 2  /    0
